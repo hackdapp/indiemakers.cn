@@ -1,40 +1,35 @@
-# The Side Project Marketing Checklist
+# IndieMaker
 
-[![](https://i.imgur.com/uZJHDXL.jpg)](https://www.sideprojectchecklist.com/marketing-checklist)
+> 一个持续关注IndieMaker群体的信息收集与分享平台。
 
+---
 
-## What
+## Wiki
 
-The [Side Project Marketing Checklist](https://www.sideprojectchecklist.com/marketing-checklist) is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and open source.
-
-
-## Why
-
-I've been building little software side projects for years, but I've always been terrible at marketing them. I come up with some ideas, forget those ideas, do some random stuff, then lose interest. The goal of this repository is to fix that.
+1. [The Side Project Marketing Checklist](marketing-checklist.md)
 
 
-## Quickstart
+---
 
-1. Copy the [marketing-checklist.md](marketing-checklist.md) file or [fork this repository](https://github.com/portable-cto/side-project-marketing).
+## Bilibili/Youtube
 
-2. Add, remove, or modify the tactics as you see fit based on your project and customers.
+1. Turning Side Projects into Profitable Startups
 
-3. Get to work! The checklist format allows you to keep up with which things you've tried and which you haven't.
+[Turning Side Projects into Profitable Startups](//player.bilibili.com/player.html?aid=47273815&cid=82788125&page=1 ':include :type=iframe width=100% height=400px')
 
-4. Profit? I mean, that's the goal, right?
+---
+## Tools
 
-The checklist and companion blog posts are also available online at [sideprojectchecklist.com](https://www.sideprojectchecklist.com/).
+1. 域名购买与解析
+  - https://godaddy.com
+  - https://wanwang.aliyun.com
+2. 产品平台
+  - https://www.producthunt.com/
 
-Don't forget to also check out the [Side Project Sales Checklist](https://github.com/portable-cto/side-project-sales) as well.
+持续更新中......
+
+---
+# changelog
 
 
-## Contributing
-
-See the [Contributing page](https://www.sideprojectchecklist.com/contributing/).
-
-
-## License
-
-This project is offered via the MIT License. See the [license page](https://www.sideprojectchecklist.com/license/) for details.
-
-Copyright 2017, Portable CTO LLC.
+- 2019-03-25 模板布局修改；B站视频更新；
