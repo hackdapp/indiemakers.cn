@@ -8,7 +8,14 @@
 
 1. [The Side Project Marketing Checklist](marketing-checklist.md)
 
+## Articles
 
+1. [The Facet Blog | Why I Turned Down My Y Combinator Interview](https://www.facetdev.com/blog/posts/why-i-turned-down-my-y-combinator-interview/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=ios)
+
+## Idea
+1. affiliate
+2. shopify
+3. niche(利基)
 ---
 
 ## Bilibili/Youtube
@@ -31,5 +38,5 @@
 ---
 # changelog
 
-
 - 2019-03-25 模板布局修改；B站视频更新；
+- 2019-03-26 添加idea方向; 添加国外maker及youtube频道；添加关键词及指数查询工具；添加协作工具
