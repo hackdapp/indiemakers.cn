@@ -39,4 +39,4 @@
 # changelog
 
 - 2019-03-25 模板布局修改；B站视频更新；
-- 2019-03-26 添加idea方向; 添加国外maker及youtube频道；添加关键词及指数查询工具；添加协作工具
+- 2019-03-26 添加idea方向; 添加国外maker及youtube频道；添加关键词及指数查询工具；添加协作工具; 添加googleanalytics;
