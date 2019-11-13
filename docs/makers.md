@@ -1,3 +1,7 @@
+[(2) 倪爽 on Twitter: "我把我创建的”独立创造者“ list 公开了：极少数人能够独立创造出产品，关注独立开发者、自由设计师、个人内容生产者 https://t.co/kq4WBIDbbi 独立创造者的心智模型不同于上班族，也和大老板不同啦😅，他们积极向上的心态、尽一切能力解决问题的勇气，经常都能给我启发👏 欢迎推荐其他独立创造者" / Twitter](https://twitter.com/nishuang/status/1181404021204176898)
+
+
+
 * Affiliate Marketing
 * affiliate
 利基站
